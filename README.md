@@ -1,4 +1,4 @@
-# MarkdownImages
+# MarkdownImages ![](https://img.shields.io/badge/%E5%88%B6%E4%BD%9C%E8%80%85-zohar.zzh-brightgreen.svg)
  MarkdownImage是编写Markdown文件的专用缓存仓库。
 
 ### * 如何在在md文件中插入图片？
